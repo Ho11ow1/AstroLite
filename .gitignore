@@ -1,0 +1,24 @@
+# =====================
+# Environment / Temp
+# =====================
+.env
+**.bak
+
+# =====================
+# Node / Astro
+# =====================
+node_modules/
+dist/
+.astro/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =====================
+# Editors / IDEs
+# =====================
+.vscode/
+.vs/
+.idea/
+
