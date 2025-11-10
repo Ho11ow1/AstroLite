@@ -42,3 +42,8 @@ npm run dev | pnpm run dev | yarn dev
 ## Requirements
 - Node.js v18.20.8+ (v19 & v21 are not supported due to astro compatibility)
 - Package manager of your choosing 
+
+
+## License
+
+MIT License - see [LICENSE](LICENSE) 
